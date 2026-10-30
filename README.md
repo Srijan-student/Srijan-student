@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Srijan 👋
 
-<!--
-**Srijan-student/Srijan-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a **22-year-old Data Engineering, Management and Governance Associate at Accenture**, passionate about building reliable data solutions and helping organizations make better use of their data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💼 Working at **Accenture** as a **Data Engineering, Management and Governance Associate**
+- 🎓 Bachelor of Computer Application graduate
+- 📊 Interested in data engineering, data management, data governance, and analytics
+- 🌱 Continuously learning and developing my technical and problem-solving skills
+
+## Areas of Interest
+
+- Data Engineering
+- Data Management
+- Data Governance
+- Data Quality and Metadata Management
+- Cloud and Database Technologies
+
+## Let's Connect
+
+I'm always open to learning, collaborating, and connecting with people who are passionate about technology and data.
